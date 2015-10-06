@@ -7,7 +7,7 @@ gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-redhat-release
 
 [rhel-source-beta]
 name=Red Hat Enterprise Linux $releasever Beta - $basearch - Source
-baseurl=ftp://ftp.redhat.com/pub/redhat/linux/beta/$releasever/en/os/SRPMS/
+baseurl=ftp://ftp.redhat.com/pub/hjhjhjhkjhkj
 enabled=0
 gpgcheck=0
 gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-redhat-beta,file:///etc/pki/rpm-gpg/RPM-GPG-KEY-redhat-release
